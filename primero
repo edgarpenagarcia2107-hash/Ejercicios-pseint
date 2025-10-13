@@ -1,0 +1,11 @@
+Algoritmo Area_Perimetro
+	Definir  a, p , b, h Como Real
+	Escribir "__Ingrese la longitud de la base de su rectangulo -> "
+	Leer b
+	Escribir "__Ingrese la longitud de su altura de su rectangulo -> "
+	Leer h
+	a = b*h
+	p = 2 * (b + h)
+	Escribir "El area de tu rectangulo es -> ",a
+	Escribir "El perimetro de tu rectangulo es ->> ",p
+FinAlgoritmo

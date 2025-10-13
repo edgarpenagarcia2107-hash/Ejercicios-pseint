@@ -1,0 +1,9 @@
+Algoritmo temperatura
+	Definir C, F Como Real
+	Escribir "Ingrese la temperatura en grados Celcius, para cambiarlo a fahrenheit ->  "
+	leer C
+	F = 9/5 * C + 32
+	
+	Escribir "Su temperatura es de ", F, " Grados fahrenheit."
+	
+FinAlgoritmo

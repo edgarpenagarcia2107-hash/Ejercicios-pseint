@@ -1,0 +1,13 @@
+Algoritmo promedioAritmetico
+	Definir num1, num2, num3, i Como Entero
+	Escribir "ingrese num1"
+	Leer num1
+	Escribir "ingrese num2"
+	Leer num2
+	Escribir "ingrese num3"
+	Leer num3
+	
+	i = (num1+num2+num3)/3
+	Escribir "Tu promedio es de : ", i
+	
+	

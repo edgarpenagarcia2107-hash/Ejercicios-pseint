@@ -1,0 +1,13 @@
+Algoritmo cubo_cuadrado
+	
+	definir num, cubo, cuadrado Como Real
+	Escribir "Ingrese un numero cualquiera -> "
+	Leer num
+	
+	cubo = num^3
+	cuadrado = num^2
+	
+	Escribir "El cuadrado de tu numero es -> ", cuadrado, " y el cubo ", cubo
+	
+	
+FinAlgoritmo

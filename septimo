@@ -1,0 +1,11 @@
+Algoritmo 	capitales
+	definir capital, pais como cadena
+	escribir "Ingrese el pais den su  prefiera -> "
+	Leer pais
+	Escribir "Ingrese la capital de este pais -> "
+	leer capital
+	
+	Escribir capital, " es la capital de ",pais
+	
+	
+FinAlgoritmo

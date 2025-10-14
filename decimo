@@ -1,0 +1,12 @@
+Algoritmo bucle_numerico
+	
+	Definir num, bool como real
+	
+	Escribir "ingresa un numero cualquiera -> "
+	leer num
+	
+	bool = num+1
+	
+	Escribir "el numero siguiente al ingresado es -> ", bool
+	
+FinAlgoritmo

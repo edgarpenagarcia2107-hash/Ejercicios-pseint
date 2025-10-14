@@ -1,0 +1,6 @@
+Algoritmo suma
+	definir sum Como Real
+	sum = 2 + 4
+	Escribir "la suma de estos dos numeros es -> ", sum
+	
+FinAlgoritmo

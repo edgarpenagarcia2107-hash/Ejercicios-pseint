@@ -1,0 +1,8 @@
+Algoritmo random
+	Definir num, numeroAumentado Como Real
+	num <- Aleatorio(0, 200)
+	Escribir "El numero seleccionado es -> ", num
+	numeroAumentado <- num * 1.30
+	Escribir "El numero aumentado un 30% es -> ",numeroAumentado
+	
+FinAlgoritmo

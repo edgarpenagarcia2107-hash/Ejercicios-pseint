@@ -1,0 +1,9 @@
+Algoritmo NumeroAleatorio
+    Definir num, num_disminuido Como Real
+	
+    num <- Aleatorio(10, 50)
+    Escribir "Tu número generado: ", num
+	
+    num_disminuido <- num - (num * 0.15)
+    Escribir "Tu número disminuido en 15%: ", num_disminuido
+FinAlgoritmo

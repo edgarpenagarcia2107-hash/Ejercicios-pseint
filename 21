@@ -1,0 +1,9 @@
+Algoritmo radio
+	definir s,p,r como Real
+	Escribir "Ingresa el radio"
+	Leer r
+	s = PI*r^2
+	p = 2*PI*r
+	Escribir "La superficie es",s
+	Escribir "y el perimetro es",p
+FinAlgoritmo
